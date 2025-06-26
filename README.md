@@ -1,4 +1,4 @@
-ホームページURL：[devmemo-mori.vercel.app](https://devmemo-mori.vercel.app/)
+ホームページURL：
 
 - 👋 Hi, I’m ka2yuki mori
 - 👀 I’m interested in ...
