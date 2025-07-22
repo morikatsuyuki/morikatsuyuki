@@ -1,4 +1,4 @@
-ホームページURL：
+ホームページURL：comming soon..
 
 - 👋 Hi, I’m ka2yuki mori
 - 👀 I’m interested in something
