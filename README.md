@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - I'm using tools:
-  - editors: VSCode/nano
+  - editors: nano
 
 <!---
 ka2yuki1987/ka2yuki1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
