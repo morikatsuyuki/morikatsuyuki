@@ -10,7 +10,7 @@
 - I'm using tools:
   - editors: nano/vi/vim
 
-my using modules? cmds:
+my using modules:
 - gh：github のリポジトリ作成
 - translate-shell: 和訳してくれる`trans eigo :ja`
 
