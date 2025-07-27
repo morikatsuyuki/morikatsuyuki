@@ -1,5 +1,4 @@
-ホームページURL：comming soon..
-
+ホームページURL：
 - 👋 Hi, I’m ka2yuki mori
 - 👀 I’m interested in something
 - 🌱 I’m currently learning: Electron, Linux, apt
@@ -11,8 +10,11 @@
   - editors: nano
 
 my using modules:
-- gh：github のリポジトリ作成
+- gh：github のリポジトリ作成/ clone :tada:
 - translate-shell: 和訳してくれる`trans eigo :ja`
+
+my Dashboards
+- [ReactNative](https://expo.dev/accounts/katsuyukimori)
 
 
 <!---
