@@ -8,7 +8,7 @@
 - 😄 Pronouns: feeling
 - ⚡ Fun fact: pending..
 - I'm using tools:
-  - editors: nano/vi/vim
+  - editors: nano
 
 my using modules:
 - gh：github のリポジトリ作成
