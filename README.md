@@ -1,11 +1,8 @@
 ホームページURL：
 - 👋 Hi, I’m ka2yuki mori
-- 👀 I’m interested in something
-- 🌱 I’m currently learning: Electron, Linux, apt
-- 💞️ I’m looking to collaborate on ...?
+- 👀 I’m interested in ..
+- 🌱 I’m currently learning: React-Native, Linux
 - 📫 How to reach me this
-- 😄 Pronouns: feeling
-- ⚡ Fun fact: pending..
 - I'm using tools:
   - editors: nano
 
