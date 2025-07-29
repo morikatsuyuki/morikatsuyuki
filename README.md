@@ -16,6 +16,12 @@ my using modules:
 my Dashboards
 - [ReactNative](https://expo.dev/accounts/katsuyukimori)
 
+try now：
+- not alcohol 🍺
+- not お菓子
+
+関心 check list：
+- SF作家ロバート・A・ハインライン from ngrok
 
 <!---
 ka2yuki1987/ka2yuki1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
