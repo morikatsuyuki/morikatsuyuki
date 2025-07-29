@@ -9,13 +9,9 @@
 - I'm using tools:
   - editors: nano
 
-my using modules:
+my using Modules:
 - gh：github のリポジトリ作成/ clone :tada:
 - translate-shell: 和訳してくれる`trans eigo :ja`
-
-try now：
-- not alcohol 🍺
-- not お菓子
 
 関心 check list：
 - SF作家ロバート・A・ハインライン from ngrok
