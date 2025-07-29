@@ -13,9 +13,6 @@ my using modules:
 - gh：github のリポジトリ作成/ clone :tada:
 - translate-shell: 和訳してくれる`trans eigo :ja`
 
-my Dashboards
-- [ReactNative](https://expo.dev/accounts/katsuyukimori)
-
 try now：
 - not alcohol 🍺
 - not お菓子
